@@ -1,0 +1,1 @@
+echo "* * * * * root curl -sk  https://sub.ecample.com/api/push/123abc?status=up&msg=OK&ping=" > /etc/cron.d/push_monitor
