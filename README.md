@@ -3,7 +3,7 @@
 Solution:
 
 1.- Run 
-    npm run build-dist-and-restart 
+        npm run build-dist-and-restart 
 which builds the dist(if dist folder is already present you have to delete it first and run this command).
 
 2.- Stop the running process(CTRL+C) after the dist folder is created with all the files or when the console shows Listening on PORT 3001
