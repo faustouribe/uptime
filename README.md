@@ -1,6 +1,16 @@
 # uptime
 
-Solution:
+
+# Change Name
+
+After
+https://github.com/louislam/uptime-kuma/blob/master/docker/dockerfile#LL30C22-L30C22
+
+Run
+``` sed -i 's/Uptime Kuma/Monitoring/g' /app/src/layouts/Layout.vue ```
+
+
+# Create Image
 
 1.- Run 
         ```npm run build-dist-and-restart``` 
