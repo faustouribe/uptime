@@ -1,5 +1,6 @@
 # uptime
-
+## In NGINX Proxy Manager
+Please enable "WebSockets Support"
 
 # Change Name
 
